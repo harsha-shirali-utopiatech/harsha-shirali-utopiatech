@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/harsha-shirali-utopiatech/harsha-shirali-utopiatech)
+
 - 👋 Hi, I’m @harsha-shirali-utopiatech
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning swift programming
